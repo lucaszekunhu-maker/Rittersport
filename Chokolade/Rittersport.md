@@ -1,1 +1,1 @@
-<span style="color:pink;">## Rittersport smager godt.</span>
+<span style="color:pink;">Rittersport smager godt.</span>
